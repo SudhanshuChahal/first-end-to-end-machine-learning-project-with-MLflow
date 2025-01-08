@@ -77,3 +77,14 @@ export $env:MLFLOW_TRACKING_URI=https://dagshub.com/sudhanshuchahal262/first-end
 export $env:MLFLOW_TRACKING_USERNAME="sudhanshuchahal262" 
 
 export "$env:MLFLOW_TRACKING_PASSWORD="fa43d06bf6f1d1a89b06b77537418f2c918919f7"
+
+
+# AWS-CICD-Deployment-with-Github-Actions
+
+### 1.Login to AWS console.
+
+### 2.Create IAM user for deployment
+
+### 3.Create ECR repo to store/save docker image
+
+### 4.Create EC2 machine(Ubuntu)
