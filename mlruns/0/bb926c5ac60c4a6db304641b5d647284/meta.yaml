@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/first-end-to-end-machine-learning-project-with-MLflow/mlruns/0/bb926c5ac60c4a6db304641b5d647284/artifacts
+end_time: 1736340199044
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb926c5ac60c4a6db304641b5d647284
+run_name: adorable-foal-186
+run_uuid: bb926c5ac60c4a6db304641b5d647284
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736340192399
+status: 3
+tags: []
+user_id: sudha
